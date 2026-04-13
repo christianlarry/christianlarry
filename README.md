@@ -1,111 +1,46 @@
-# Hi, I’m Christian Larry Jo Rondonuwu
+# Christian Larry Jo Rondonuwu
 
-**Backend Engineer | Full-stack Developer**
+Backend Engineer • Full-stack Developer 
 
-I build scalable systems that solve real operational problems—high-performance APIs, data-intensive workflows, and production-ready AI integrations (semantic search, vector retrieval, caching).
+I build **fast, reliable backends** and ship product features that turn manual ops into **automated workflows**—from high-performance APIs to semantic search.
 
-- Website: **https://christianrondonuwu.me**
-- LinkedIn: **https://www.linkedin.com/in/christian-larry-jo-rondonuwu-a7195730b**
-- GitHub: **https://github.com/christianlarry**
-- Email: **christianlarry03 [at] gmail [dot] com**
-
-<!-- Optional: add a short “open to” line here (roles, location, remote/onsite). -->
+- Website: https://christianrondonuwu.me
+- LinkedIn: https://www.linkedin.com/in/christian-larry-jo-rondonuwu-a7195730b
+- Email: christianlarry03@gmail.com
 
 ---
 
-## What I’m focusing on
+## What I do best
 
-- Building backend services and APIs with solid architecture (Clean Architecture / DDD / Event-driven)
-- Improving performance with caching, indexing, and better data access patterns
-- Applying AI in production: semantic search, retrieval pipelines, and practical automation
-
----
-
-## Tech stack
-
-**Backend**
-- Node.js, Bun
-- Express.js, Fastify, Elysia, NestJS
-
-**Frontend**
-- React, Next.js
-- Tailwind CSS
-- React Native
-
-**Databases / Search**
-- PostgreSQL, MongoDB
-- Redis
-- Elasticsearch
-- Pinecone
-
-**Languages**
-- TypeScript, JavaScript (ES2015+), Rust, C++, Python, Golang
-
-**Tools / DevOps**
-- Git, GitHub
-- Docker
-- Netlify, Vercel
+- **Backend & API engineering** (scalable, maintainable, production-ready)
+- **Performance work** (caching, indexing, smarter data access)
+- **AI in real products** (semantic search / retrieval, not just demos)
+- **System thinking** (Clean Architecture, DDD-ish, event-driven when it makes sense)
 
 ---
 
-## Experience
+## Proof-of-work (highlights)
 
-**PT Aplikasi UNIQ Indonesia — Software Engineer Intern** (Yogyakarta, 2024)
-- Built an AI-powered FAQ system with semantic search to improve relevance beyond keyword search
-- Implemented vector-based retrieval using transformer (Xenova) models to speed up accurate answers
-- Integrated responsive frontend interfaces with backend APIs for smooth real-time interactions
-- Improved user registration flow and added bot protection (reCAPTCHA v3)
+- Built an **AI-powered FAQ semantic search** system (vector retrieval) to improve answer relevance beyond keyword search
+- Created a **tile layout calculator**: interactive layout design + automated material calculation + recommendations
+- Currently building a **gym membership & retention** system focused on lifecycle tracking and automated reminders
 
----
-
-## Projects (selected)
-
-### Ceramic Tile Layout Calculator — Final Year Project
-An interactive web app to design room layouts and automatically calculate tile requirements.
-
-Highlights:
-- Real-time canvas-based drawing for layout creation
-- Backend services for product management and recommendation workflows
-- AI-based recommendations to suggest suitable tiles based on user input
-- Performance optimizations via caching and search indexing
-- Dockerized for easier deployment and environment consistency
-
-Links:
-- Repo: <!-- TODO: add GitHub repo link -->
-- Live demo: <!-- TODO: add demo link (Vercel/Netlify) -->
-
-### Gym Membership & Retention System (In progress) — Personal Project
-A system to reduce manual member tracking, handle reminders, and improve retention.
-
-Highlights:
-- Membership lifecycle management with real-time status tracking
-- Automated reminder workflows
-- Backend architecture designed for scalability and future SaaS adoption
-- Exploring AI-driven insights to identify at-risk members
-
-Links:
-- Repo: <!-- TODO: add GitHub repo link -->
+> I like projects where the goal is simple: **reduce friction, increase clarity, and make systems run themselves**.
 
 ---
 
-## Education
+## Toolbox
 
-**Bachelor of Computer Science** — Sam Ratulangi University (Manado, 2021–2026)
+**TypeScript / JavaScript**, Node.js, Bun • Express, Fastify, NestJS, Elysia • React, Next.js • PostgreSQL, MongoDB, Redis • Elasticsearch • Supabase • Docker
 
 ---
 
-## GitHub extras (optional)
+## Let’s collaborate
 
-<!-- Update `username=` if you change your GitHub handle. -->
+If you need help with **API design**, **backend performance**, or **search/retrieval systems**, feel free to reach out.
 
+<!-- Optional: enable stats when you want it -->
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianlarry&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianlarry&layout=compact)
 -->
-
----
-
-## Notes
-
-- Pin your best 3–6 repositories on your profile to match the “Projects” section above.
-- Keep README short, skimmable, and link out to deeper case studies in each repo.
