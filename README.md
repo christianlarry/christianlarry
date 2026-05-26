@@ -1,46 +1,41 @@
-# Christian Larry Jo Rondonuwu
+<div align="center">
 
-Backend Engineer • Full-stack Developer 
+# hey, i'm christian ☕
 
-I build **fast, reliable backends** and ship product features that turn manual ops into **automated workflows**—from high-performance APIs to semantic search.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=450&lines=i+write+code+and+build+things;i+like+my+coffee+hot+and+my+apis+fast;tinkering+with+typescript%2C+nest%2C+%26+go;building+stuff+that+works" alt="Typing SVG" />
+</a>
 
-- Website: https://christianrondonuwu.me
-- LinkedIn: https://www.linkedin.com/in/christian-larry-jo-rondonuwu-a7195730b
-- Email: christianlarry03@gmail.com
+<br><br>
 
----
+<!-- A cool, cozy lofi pixel art coding GIF -->
+<img src="https://media.giphy.com/media/QyJ7uL3oNq5rR2Tfly/giphy.gif" width="480" alt="lofi coding" style="border-radius: 8px;" />
 
-## What I do best
-
-- **Backend & API engineering** (scalable, maintainable, production-ready)
-- **Performance work** (caching, indexing, smarter data access)
-- **AI in real products** (semantic search / retrieval, not just demos)
-- **System thinking** (Clean Architecture, DDD-ish, event-driven when it makes sense)
+</div>
 
 ---
 
-## Proof-of-work (highlights)
+### 👋 about me
+i just like building things that solve actual problems. no corporate fluff, no fancy buzzwords—just clean code and systems that get the job done. when i'm not coding, i'm probably looking at a terminal wondering why a query is slow, or figuring out how to automate something i should've just done manually.
 
-- Built an **AI-powered FAQ semantic search** system (vector retrieval) to improve answer relevance beyond keyword search
-- Created a **tile layout calculator**: interactive layout design + automated material calculation + recommendations
-- Currently building a **gym membership & retention** system focused on lifecycle tracking and automated reminders
+### ⚡ what i'm up to
+* 🛠️ **systems & apis:** writing backend services in **node.js**, **bun**, and **go**
+* 🧠 **search & ai:** tinkering with vector search, embeddings, and semantic retrieval
+* ⚙️ **automation:** writing scripts to make things run themselves
+* 📦 **full-stack:** shipping frontends in **react** / **next.js** when i need to build UI
 
-> I like projects where the goal is simple: **reduce friction, increase clarity, and make systems run themselves**.
-
----
-
-## Toolbox
-
-**TypeScript / JavaScript**, Node.js, Bun • Express, Fastify, NestJS, Elysia • React, Next.js • PostgreSQL, MongoDB, Redis • Elasticsearch • Supabase • Docker
+### 🛠️ stack
+`typescript` `javascript` `go` `node.js` `bun` `express` `nest.js` `elysia` `next.js` `postgresql` `mongodb` `redis` `docker` `supabase`
 
 ---
 
-## Let’s collaborate
+<div align="center">
+  
+<!-- GitHub Stats in transparent/tokyonight style -->
+<img src="https://github-readme-stats.vercel.app/api?username=christianlarry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Christian's GitHub stats" />
 
-If you need help with **API design**, **backend performance**, or **search/retrieval systems**, feel free to reach out.
+<br><br>
 
-<!-- Optional: enable stats when you want it -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianlarry&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianlarry&layout=compact)
--->
+📫 **find me here:** `christianlarry03@gmail.com` • [christianrondonuwu.me](https://christianrondonuwu.me)
+
+</div>
